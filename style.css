@@ -34,3 +34,12 @@ button:hover {
     padding: 15px;
   }
 }
+/* ===== Dark Mode ===== */
+body.dark {
+  background: #121212;
+  color: #fff;
+}
+
+body.dark .app-container {
+  background: #1e1e1e;
+}
